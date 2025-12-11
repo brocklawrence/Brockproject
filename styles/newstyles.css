@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(183, 224, 255);
+}
+h1{
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+h2{
+    color: blue;
+    font-family: monospace;
+    text-decoration: underline;
+    text-align: center;
+    font-size: x-large;
+    
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    color: darkgoldenrod;
+}
